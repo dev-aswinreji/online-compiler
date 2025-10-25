@@ -1,0 +1,6 @@
+[submodule "online-compiler-backend"]
+	path = online-compiler-backend
+	url = git@github.com:dev-aswinreji/online-compiler-backend
+[submodule "online-compiler-frontend"]
+	path = online-compiler-frontend
+	url = git@github.com:dev-aswinreji/online-compiler-frontend
